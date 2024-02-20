@@ -1,4 +1,4 @@
-# Fantasy_Football_Wins_Pool
+# Fantasy_Football_Pick3_Wins_Pool
 
 This script pulls from sports-reference.com and summarizes win totals based on a ten person 3 team pick 'em. I've been running this with a group of friends for 5+ years - it's simple and keeps us connected. Enjoy!
 
